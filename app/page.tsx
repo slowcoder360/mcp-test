@@ -32,6 +32,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center min-h-screen bg-background">
       <h1 className="text-3xl font-bold text-center mt-8 mb-8">vibeCoding Tutorial</h1>
+      <h2 className="text-xl font-semibold text-center mb-6">Create a .cursorrules folder &gt; create a basic-rules.mdc file</h2>
       <Card className="w-full max-w-xl">
         <CardHeader>
           <CardTitle>Markdown Preview</CardTitle>
